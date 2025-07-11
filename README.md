@@ -13,7 +13,7 @@ A Python-based web application for simulating multi-leg options strategies, visu
   - Payoff at expiration
   - Theoretical P&L today based on Black-Scholes valuation
 - **Greeks Calculation**:
-  - Compute Delta, Gamma, Theta, Vega, and Rho manually (no external libraries)
+  - Compute Delta, Gamma, Theta, Vega manually (no external libraries)
   - View their sensitivities across varying spot prices
 
 ## Screenshot
